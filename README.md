@@ -16,8 +16,18 @@
 </br>
 Hello,
 </br>
- <p> I'm Haard Shah, Completing my Bachelor's in Computer Engineering From Pandit Deendayal Energy University. 
+ <p> I'm Haard Shah, Software Engineer , Completing my Bachelor's in Computer Engineering From Pandit Deendayal Energy University. 
 </p>
+Haard Shah
+
+Software Engineer
+Pandit Deendayal Energy University
+Gandhinagar, India
+
+
+# About
+
+I am a passionate and experienced software engineer with a strong background in computer science. I am proficient in a variety of programming languages and frameworks, including C/C++, JavaScript, Python, SQL, Dart, and Java. I have experience in a variety of projects, including app development, web development, and operating systems. I am also a strong communicator and team player.
 
 <h3>
   Skills 💼
