@@ -18,12 +18,6 @@ Hello,
 </br>
  <p> I'm Haard Shah, Software Engineer , Completing my Bachelor's in Computer Engineering From Pandit Deendayal Energy University. 
 </p>
-Haard Shah
-
-Software Engineer
-Pandit Deendayal Energy University
-Gandhinagar, India
-
 
 # About
 
@@ -39,6 +33,8 @@ I am a passionate and experienced software engineer with a strong background in 
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img src="https://badges.aleen42.com/src/java.svg">
+  <img src = "https://img.shields.io/badge/scala-8A2BE2">
+
 </p>
 <h4>Web Development</h4>
 <p>
