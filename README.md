@@ -5,6 +5,9 @@
  <!--- <a href="https://www.codechef.com/users/haardshah4303">
     <img src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white">
   </a> --->
+
+  <img src="https://komarev.com/ghpvc/?username=haard04&color=blueviolet&style=flat">
+
   <a href="mailto:haardshah04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
