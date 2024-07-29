@@ -19,53 +19,78 @@
 </br>
 Hello,
 </br>
- <p> I'm Haard Shah, Software Engineer , Completing my Bachelor's in Computer Engineering From Pandit Deendayal Energy University. 
+ <p> I'm Haard Shah, Software Engineer , Completing my Bachelor's in Computer Engineering From Pandit Deendayal Energy University, Gandhinagar,GJ, India. 
 </p>
+
 
 # About
 
-I am a passionate and experienced software engineer with a strong background in computer science. I am proficient in a variety of programming languages and frameworks, including C/C++, JavaScript, Python, SQL, Dart, and Java. I have experience in a variety of projects, including app development, web development, and operating systems. I am also a strong communicator and team player.
+I am a passionate and experienced software engineer with a strong background in computer science. I am proficient in a variety of programming languages and frameworks, including C/C++, JavaScript, Python, SQL, Dart, and Java. I have experience in a variety of projects, including app development, web development, and operating systems. I am also a strong communicator and leader. <br/><br/><br/>
+Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
 
 <h3>
   Skills 💼
 </h3>
 
 <h4>Programming Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-  <img src="https://badges.aleen42.com/src/java.svg">
-  <img src = "https://img.shields.io/badge/scala-8A2BE2">
 
-</p>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Scala](https://img.shields.io/badge/scala-8A2BE2.svg?style=for-the-badge&logo=scala&logoColor=ffdd54)
+
+
 <h4>Web Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://badges.aleen42.com/src/react.svg">
-  <img src="https://badges.aleen42.com/src/node.svg">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-  <img src="https://badges.aleen42.com/src/redux.svg">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://badges.aleen42.com/src/javascript.svg">
+
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
+  ![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)
+  ![FAST API](https://img.shields.io/badge/fastapi-%2320232a.svg?style=for-the-badge&logo=fastapi&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
-</p>
+  <h4> Databases </h4>
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![MySQL](https://img.shields.io/badge/mysql-%23039BE5.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgre SQL](https://img.shields.io/badge/postgre%20sql-%23039BE5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+  
 <h4>App Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-blue">
-</p>
+
+![Flutter](https://img.shields.io/badge/Flutter-%23039BE5.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+<h4> Cloud & DevOps </h4>
+
+![Docker](https://img.shields.io/badge/Docker-%23039BE5?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF6C37?style=for-the-badge&logo=aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-%23039BE5?style=for-the-badge&logo=gcp&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-FF6C37?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-FF6C37?style=for-the-badge&logo=terraform&logoColor=white)
+
+<h4> Tools & Tech </h4>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Atlassian%20Jira-%23039BE5?style=for-the-badge&logo=jira&logoColor=white)
+
+
 
 <!---
 haard04/haard04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
   GitHub Stats 📊
-</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haard04&show_icons=true&theme=vision-friendly-dark">
-</p>
+<div align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=haard04&theme=github_dark&show_icons=true"/></a>
+        <a href="https://git.io/streak-stats"><img width="50.6%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haard04&theme=github-dark-blue&show_icons=true" /></a>
+  </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haard04&theme=vision-friendly-dark">
 </p>
