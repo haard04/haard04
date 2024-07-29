@@ -2,9 +2,9 @@
   <a href="https://www.linkedin.com/in/haard-shah-437a08239/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   
- <!--- <a href="https://www.codechef.com/users/haardshah4303">
-    <img src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white">
-  </a> --->
+ <a href="https://www.leetcode.com/haardshah04">
+    <img src="https://img.shields.io/badge/Leetcode-5B4638?style=flat&logo=leetcode&logoColor=white">
+  </a> 
 
   <img src="https://komarev.com/ghpvc/?username=haard04&color=blueviolet&style=flat">
 
