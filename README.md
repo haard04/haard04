@@ -58,7 +58,7 @@ Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![MySQL](https://img.shields.io/badge/mysql-%23039BE5.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-FFFF00.svg?style=for-the-badge&logo=mysql&logoColor=black)
   ![Postgre SQL](https://img.shields.io/badge/postgre%20sql-%23039BE5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
   
