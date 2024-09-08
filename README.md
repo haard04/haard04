@@ -95,3 +95,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haard04&theme=vision-friendly-dark">
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haard04" alt="istutimaurya" /></a> </p>
+ Leetcode Stats 📊
+ <div align="center">
+  <a href = "https://leetcode.com/u/haardshah04/"> <img src = "https://leetcard.jacoblin.cool/haardshah04" height="100%" width = "50%" /> </a>
+ </div>
