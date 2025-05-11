@@ -19,13 +19,13 @@
 </br>
 Hello,
 </br>
- <p> I'm Haard Shah, Software Engineer , Completing my Bachelor's in Computer Engineering From Pandit Deendayal Energy University, Gandhinagar,GJ, India. 
+ <p> I'm Haard Shah, Working as Software Engineer at Heizen (Formaly OpenGIG) , Completed my Bachelor's in Computer Engineering From Pandit Deendayal Energy University, Gandhinagar in 2025. 
 </p>
 
 
 # About
 
-I am a passionate and experienced software engineer with a strong background in computer science. I am proficient in a variety of programming languages and frameworks, including C/C++, JavaScript, Python, SQL, Dart, and Java. I have experience in a variety of projects, including app development, web development, and operating systems. I am also a strong communicator and leader. <br/><br/><br/>
+I am a passionate and experienced software engineer with a strong background in computer science. I am proficient in a variety of programming languages and frameworks, including C/C++, JavaScript, Typescript, Python, SQL, Dart, and Java. I have experience in a variety of projects, including app development, web development, and operating systems. I am also a strong communicator and leader. <br/><br/><br/>
 Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
 
 <h3>
@@ -48,13 +48,16 @@ Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    ![NextJs](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
+    ![NestJS](https://img.shields.io/badge/NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
   ![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)
   ![FAST API](https://img.shields.io/badge/fastapi-%2320232a.svg?style=for-the-badge&logo=fastapi&logoColor=%2361DAFB)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
   
   <h4> Databases </h4>
   
