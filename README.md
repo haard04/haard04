@@ -19,7 +19,7 @@
 </br>
 Hello,
 </br>
- <p> I'm Haard Shah, Working as Software Engineer at Heizen (Formaly OpenGIG) , Completed my Bachelor's in Computer Engineering From Pandit Deendayal Energy University, Gandhinagar in 2025. 
+ <p> I'm Haard Shah, Working as Software Engineer at Heizen (Formaly OpenGIG) , Completed my Bachelor's in Computer Engineering From Pandit Deendayal Energy University, Gandhinagar. 
 </p>
 
 
