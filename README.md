@@ -93,7 +93,6 @@ You can click the Preview link to take a look at your changes.
 --->
   GitHub Stats 📊
 <div align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=haard04&theme=github_dark&show_icons=true"/></a>
         <a href="https://git.io/streak-stats"><img width="50.6%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haard04&theme=github-dark-blue&show_icons=true" /></a>
   </div>
 <p align="center">
