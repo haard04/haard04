@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/haard-shah-437a08239/">
+  <a href="https://www.linkedin.com/in/haard-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  
+  </a>
+
  <a href="https://www.leetcode.com/haardshah04">
     <img src="https://img.shields.io/badge/Leetcode-5B4638?style=flat&logo=leetcode&logoColor=white">
   </a> 
@@ -12,14 +13,17 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
   <a href="https://twitter.com/HaardShah10">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Haardshah10?style=social">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white">
+  </a>
+  <a href="https://haard-portfolio-haard-shahs-projects.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=vercel&logoColor=white">
   </a>
   
 </p>
 </br>
 Hello,
 </br>
- <p> I'm Haard Shah, Working as Software Engineer at Heizen (Formaly OpenGIG) , Completed my Bachelor's in Computer Engineering From Pandit Deendayal Energy University, Gandhinagar. 
+ <p> I'm Haard Shah, working as a Senior Software Engineer at Heizen (formerly OpenGig), building AI-powered products end to end. I completed my Bachelor's in Computer Engineering from Pandit Deendayal Energy University, Gandhinagar.
 </p>
 
 
@@ -27,6 +31,19 @@ Hello,
 
 I am a passionate and experienced software engineer with a strong background in computer science. I am proficient in a variety of programming languages and frameworks, including C/C++, JavaScript, Typescript, Python, SQL, Dart, and Java. I have experience in a variety of projects, including app development, web development, and operating systems. I am also a strong communicator and leader. <br/><br/><br/>
 Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
+
+<h3>
+  Experience 🚀
+</h3>
+
+- **Senior Software Engineer** — Heizen, Hyderabad · *April 2026 – Present*<br/>
+  Order-to-dispatch platform integrating HoneyCart, QuickBooks and Recipal, saving ~3,900 hours/year of manual work. Supply Chain Visibility Platform with real-time tracking, predictive analytics and an NL-to-SQL chatbot.
+- **Software Engineer** — Heizen, Hyderabad · *July 2025 – March 2026*<br/>
+  Automated EMR data extraction pipeline (Selenium, FastAPI, PostgreSQL); an AI-powered marketing platform on Next.js, NestJS, Prisma and FastAPI with Pinecone and ElasticSearch; an accessibility-focused Flutter app.
+- **SDE Intern** — Heizen, Hyderabad · *January 2025 – June 2025*<br/>
+  Cloud security & compliance platform (Django, NestJS, Celery, Redis, FastAPI), plus Terraform IaC and GitHub Actions pipelines across AWS and GCP.
+- **Full Stack Development Intern** — Marwiz Tech, Vadodara · *June 2024 – July 2024*
+- **Software Development Intern** — Welcome Broker, Ahmedabad · *May 2022 – May 2023*
 
 <h3>
   Skills 💼
@@ -57,6 +74,8 @@ Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
   
   
   <h4> Databases </h4>
@@ -65,6 +84,9 @@ Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![MySQL](https://img.shields.io/badge/mysql-FFFF00.svg?style=for-the-badge&logo=mysql&logoColor=black)
   ![Postgre SQL](https://img.shields.io/badge/postgre%20sql-%23039BE5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+  ![Pinecone](https://img.shields.io/badge/pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
   
   
 <h4>App Development</h4>
@@ -78,12 +100,15 @@ Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
 ![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-%23039BE5?style=for-the-badge&logo=gcp&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-FF6C37?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-FF6C37?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <h4> Tools & Tech </h4>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Atlassian%20Jira-%23039BE5?style=for-the-badge&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 
