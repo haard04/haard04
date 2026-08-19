@@ -36,12 +36,9 @@ Find my <a href= "https://tinyurl.com/haardresume">Resume</a>
   Experience 🚀
 </h3>
 
-- **Senior Software Engineer** — Heizen, Hyderabad · *April 2026 – Present*<br/>
-  Order-to-dispatch platform integrating HoneyCart, QuickBooks and Recipal, saving ~3,900 hours/year of manual work. Supply Chain Visibility Platform with real-time tracking, predictive analytics and an NL-to-SQL chatbot.
-- **Software Engineer** — Heizen, Hyderabad · *July 2025 – March 2026*<br/>
-  Automated EMR data extraction pipeline (Selenium, FastAPI, PostgreSQL); an AI-powered marketing platform on Next.js, NestJS, Prisma and FastAPI with Pinecone and ElasticSearch; an accessibility-focused Flutter app.
-- **SDE Intern** — Heizen, Hyderabad · *January 2025 – June 2025*<br/>
-  Cloud security & compliance platform (Django, NestJS, Celery, Redis, FastAPI), plus Terraform IaC and GitHub Actions pipelines across AWS and GCP.
+- **Senior Software Engineer** — Heizen, Hyderabad · *April 2026 – Present*
+- **Software Engineer** — Heizen, Hyderabad · *July 2025 – March 2026*
+- **SDE Intern** — Heizen, Hyderabad · *January 2025 – June 2025*
 - **Full Stack Development Intern** — Marwiz Tech, Vadodara · *June 2024 – July 2024*
 - **Software Development Intern** — Welcome Broker, Ahmedabad · *May 2022 – May 2023*
 
